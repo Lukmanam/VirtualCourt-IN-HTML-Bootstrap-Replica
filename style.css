@@ -1,0 +1,137 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-brand img:first-child {
+    margin-right: 10px;
+  }
+  
+  .navbar-nav .nav-link {
+    margin-left: 20px;
+  }
+  
+
+   .logo1 {
+    margin-left: 80px;
+    height: 60px;
+    margin-right: 10px;
+}
+.logo2 {
+    height: 60px;
+    
+}
+.nav1
+{
+    background-color: #2c3e50;
+}
+
+.menuus a
+ {
+    color:#ffffff !important;
+ }
+
+.headerm
+{
+    font-weight: bold;
+    color: beige;
+}
+
+ 
+
+.heading
+{
+    color:#ffc736;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 3vw;
+}
+.text-secondary {
+    color: #2c3e50 !important;
+}
+.heading5 {
+    font-size: 1.2rem;
+}
+.col-md-4
+{
+position: relative;
+width: 100%;
+padding-right: 15px;
+padding-left: 15px;
+}
+.centreimage
+{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.card-title
+{
+    padding-top: 50px;
+}
+.text
+{
+    font-size: 16px;
+}
+
+.container-fluid
+{
+    background-color: #ecf5ff;
+}
+.py-5
+{
+    background-color: #ecf5ff;
+}
+.p-4
+{
+    background-color: #ffff;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: #2c3e51;
+    padding: 50px 0;
+  }
+  
+  .footer h5 {
+    margin-bottom: 20px;
+  }
+  
+  .footer ul li a {
+    color: #ffffff;
+  }
+  
+   .footer ul li a:hover {
+    color: #409a6d;
+  }
+   
+  .footer img {
+    display:flex;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+  .footerhead
+  {
+        color: #B7D8F1; 
+  }
+  .fttext
+  {
+    color: #B7D8F1;
+  }
+  .h6
+  {
+    font-weight:500
+  }
+  .menuus{
+    color: white;
+  }
+  .servBox{
+    padding-right: 15px;
+    border-radius: 100px;
+  }
+  
+.text{
+  margin-left: 25px;
+  margin-right: 25px;
+}
+  
+  
